@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// This is for 2022, S1
 
 public class CCC {
     public static void main(String[] args) {
